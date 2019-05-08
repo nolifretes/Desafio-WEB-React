@@ -1,14 +1,15 @@
 ## Projeto
 
-A proposta deste projeto é criar um website realizando integrações com a API do GitHub.
+A proposta deste projeto é criar um website utilizando a biblioteca React JS, realizando integrações com a API do GitHub.
 
 **Dependências do projeto:**
 
+* **REACT JS**: em caso de dúvidas sobre a biblioteca, utilize a documentacao oficial https://reactjs.org/
 * **react-router-dom**: precisa ser instalado o módulo abaixo, comando: `npm install react-router-dom --save`
 * [Axios](https://github.com/axios/axios) - Módulo utilizado para realizar as requisições na API.
 
 
-Sinta-se livre para utilizar qualquer biblioteca para criação de interfaces.
+* Sinta-se livre para utilizar qualquer biblioteca para criação de interfaces.
 
 ## Funcionalidades básicas
 
