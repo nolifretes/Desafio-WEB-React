@@ -1,4 +1,4 @@
-## Projeto
+## Projeto React.js
 
 A proposta deste projeto é criar um website utilizando a biblioteca React JS, realizando integrações com a API do GitHub.
 
@@ -33,4 +33,4 @@ A proposta deste projeto é criar um website utilizando a biblioteca React JS, r
 
 ## Entrega
 
- Ao terminar a prova, envie um email para `desenvolvimento@nolifretes.com.br` contendo o link do github. 
+ Ao terminar o teste, envie um email para `desenvolvimento@nolifretes.com.br` contendo o link do github. 
