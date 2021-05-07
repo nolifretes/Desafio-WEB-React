@@ -33,4 +33,4 @@ A proposta deste projeto é criar um website utilizando a biblioteca React JS, r
 
 ## Entrega
 
- Ao terminar o teste, envie um email para `desenvolvimento@nolifretes.com.br` contendo o link do github. 
+ Ao terminar o teste, envie um email para `desenvolvimento@nolifretes.com.br`, com o título DEV-REACT-TESTE contendo o link do github. 
