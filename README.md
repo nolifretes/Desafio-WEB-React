@@ -13,28 +13,28 @@ A proposta deste projeto é criar um website utilizando a biblioteca React JS, r
 
 ## Layout
 
+- A aplicação deverá seguir o layout conforme link abaixo, caso queira implementar outras funcionalidades das quais já esperada, isso ficará a seu critério.
 - [Figma](https://www.figma.com/file/CAs54hHHm8BTUrBoRySPIj/Frontend-job-test?node-id=0%3A1)
-
-- A aplicação deverá conter o seguinte layout, poderá contér mais funcionalidades das quais já esperada, isso ficará a seu critério.
 
 ## Funcionalidades básicas
 
 ### Página inicial
 
-- possuir um campo de busca, para que seja possível digitar um texto aberto. Este valor precisa ser repassado para o endpoint API.
-- exibir resultados da consulta da api, mostrando os dados do Usuário/Repositório.
-- lista de repositórios deve redirecionar para a página de detalhes com o clique em um item da lista.
+- Possuir um campo de busca, para que seja possível digitar o nome de um owner e um nome de repositório (ex: Facebook/React). Este valor precisa ser repassado para o endpoint API.
+- Exibir os resultados da consulta da api, mostrando o reposiótio em uma lista.
+- Ao clicar em um repositório na lista, a aplicação deverá redirecionar para a página de detalhes.
+
 
 ### Página de Detalhes
 
-- página deve mostrar os detalhes do repositório clicado.
-- contendo no mínimo os seguintes dados: nome, descrição, email, username, forks, start, issues, linguagem.
+- Página deverá mostrar os detalhes do repositório clicado.
+- Exibir no mínimo os seguintes dados: nome, descrição, email, username, forks, start, issues, linguagem.
+- Na página de detalhes, ao clicar sobre uma issue, deverá abrir uma nova aba do navegador para a página oficial da issue no GitHub. 
 
 ## API GitHub
 
 - endpoint consumidos:
-`http://api.github.com/users/{USUARIO}`
-`http://api.github.com/users/{USUARIO}/{REPO}`
+`https://docs.github.com/'
 
 
 ## Entrega
