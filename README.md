@@ -34,7 +34,7 @@ A proposta deste projeto é criar um website utilizando a biblioteca React JS, r
 ## API GitHub
 
 - endpoint consumidos:
-`https://docs.github.com/'
+`https://docs.github.com/pt/rest/reference/repos'
 
 
 ## Entrega
