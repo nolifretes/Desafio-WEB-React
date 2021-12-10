@@ -28,7 +28,7 @@ A proposta deste projeto é criar um website utilizando a biblioteca React JS, r
 ### Página de Detalhes
 
 - Página deverá mostrar os detalhes do repositório clicado.
-- Exibir no mínimo os seguintes dados: nome, descrição, email, ownwe name, avatar url, forks, start, issues, linguagem.
+- Exibir no mínimo os seguintes dados: nome, descrição, email, owner name, avatar url, forks, start, issues, linguagem.
 - Na página de detalhes, ao clicar sobre uma issue, deverá abrir uma nova aba do navegador para a página oficial da issue no GitHub. 
 
 ## API GitHub
