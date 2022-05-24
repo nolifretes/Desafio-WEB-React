@@ -20,8 +20,8 @@ A proposta deste projeto é criar um website utilizando a biblioteca React JS, r
 
 ### Página inicial
 
-- Possuir um campo de busca, para que seja possível digitar o nome de um owner e um nome de repositório (ex: Facebook/React). Este valor precisa ser repassado para o endpoint API.
-- Exibir os resultados da consulta da api, mostrando o reposiótio em uma lista.
+- Possuir um campo de busca, para que seja possível digitar o nome de um usuário e um nome de repositório (ex: Facebook/React). Este valor precisa ser repassado para o endpoint API.
+- Exibir os resultados da consulta da api, mostrando o repositório em uma lista.
 - Ao clicar em um repositório na lista, a aplicação deverá redirecionar para a página de detalhes.
 
 
